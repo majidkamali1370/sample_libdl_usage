@@ -1,8 +1,8 @@
 # Sample libdl usage
 
-libdl is a standard Unix library that provides functions for dynamic loading of shared libraries at runtime. It allows programs to load, access, and use symbols (such as functions or variables) from shared libraries without linking them at compile time.
+`libdl` is a standard Unix library that provides functions for dynamic loading of shared libraries at runtime. It allows programs to load, access, and use symbols (such as functions or variables) from shared libraries without linking them at compile time.
 
-In this repo, I demonstrated a simple usage of libdl.
+In this repo, I demonstrated a simple usage of `libdl`.
 
 ## foo library
 
